@@ -18,10 +18,22 @@
     vertical-align: middle;
 }
 
+.ms-line2{
+    width: 70px;
+    display: inline-block;
+    height: 4px;
+    background-color: black;
+    vertical-align: middle;
+}
+
 .ms-avatar-img{
     width: 250px;
 }
 
 .fa-star{
     font-size: 1.4rem;
+}
+
+.ms-sect2-img{
+    width: 100%;
 }
