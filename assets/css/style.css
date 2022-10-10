@@ -38,3 +38,10 @@
     width: 100%;
 }
 
+.ms-bg-blue{
+    background-color: #3A546D;
+}
+
+.ms-inline-block{
+    display: inline-block;
+}
