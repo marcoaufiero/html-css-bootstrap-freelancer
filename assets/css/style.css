@@ -5,3 +5,23 @@
 .navbar-collapse {
     flex-grow: 0;
 }
+
+.ms-bg-green{
+    background-color: #1ABC9C;
+}
+
+.ms-line{
+    width: 70px;
+    display: inline-block;
+    height: 4px;
+    background-color: white;
+    vertical-align: middle;
+}
+
+.ms-avatar-img{
+    width: 250px;
+}
+
+.fa-star{
+    font-size: 1.4rem;
+}
