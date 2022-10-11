@@ -45,3 +45,9 @@
 .ms-inline-block{
     display: inline-block;
 }
+
+.ms-icons-border{
+    border-radius: 50%;
+    border: 2px solid white;
+    width: 30px;
+}
